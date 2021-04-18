@@ -77,7 +77,7 @@ const vcard1 = 'BEGIN:VCARD\n'
 
 prefix = "!"
 name = "AFSAL"
-rdaftar = "𝐁𝐋𝐀𝐂𝐊 𝐓𝐇𝐔𝐍𝐃𝐄𝐑"
+rdaftar = "𝐁𝐀𝐂𝐊 𝐓𝐇𝐔𝐍𝐃𝐄𝐑"
 rmenu = "𝐁𝐋𝐀𝐂𝐊 𝐓𝐇𝐔𝐍𝐃𝐄𝐑"
 botinfo = "𝐁𝐋𝐀𝐂𝐊 𝐓𝐇𝐔𝐍𝐃𝐄𝐑"
 limitt = 999999999
